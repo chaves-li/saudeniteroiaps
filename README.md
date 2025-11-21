@@ -33,5 +33,5 @@ Para rodar o projeto localmente ou contribuir, você precisará de:
 3.  Acesso ao **Terminal** (para comandos Git e Firebase CLI, se necessário).
 
 ```bash
-git clone [https://github.com/SEU_USUARIO/SaudeNiteroiAPS.git](https://github.com/SEU_USUARIO/SaudeNiteroiAPS.git)
+git clone [https://github.com/chaves-li/SaudeNiteroiAPS.git](https://github.com/chaves-li/SaudeNiteroiAPS.git)
 cd SaudeNiteroiAPS
